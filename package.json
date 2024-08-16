@@ -14,7 +14,7 @@
     "db:push": "prisma db push --accept-data-loss",
     "db:init": "yarn run db:gen && yarn run db:push",
     "build": "tsc",
-    "vercel-build": "tsc && yarn run db:init && yarn run seed"
+    "vercel-build": "yarn run db:init && yarn run seed && yarn run build"
   },
   "devDependencies": {
     "@eslint/js": "^9.3.0",
