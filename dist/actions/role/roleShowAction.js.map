@@ -1,0 +1,1 @@
+{"version":3,"file":"roleShowAction.js","sourceRoot":"","sources":["../../../src/actions/role/roleShowAction.ts"],"names":[],"mappings":";;;;;;;;;;;;;;AAAA,gEAAwC;AAExC,MAAM,cAAc;IAChB,MAAM,CAAO,OAAO,CAAC,EAAU;;YAC3B,OAAO,MAAM,gBAAM,CAAC,IAAI,CAAC,UAAU,CAAC;gBAChC,KAAK,EAAE;oBACH,EAAE;oBACF,SAAS,EAAE,IAAI;iBACjB;aACL,CAAC,CAAC;QACP,CAAC;KAAA;CACJ;AAED,kBAAe,cAAc,CAAC"}
